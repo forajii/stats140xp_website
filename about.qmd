@@ -1,9 +1,26 @@
 ---
 title: "About"
+toc: false
 ---
 
 About this site
 
-```{r}
-1 + 1
-```
+# About Me
+
+
+Hello! I'm **Allen Chen**, and this website consists of my  interests, projects, and professional work.
+
+## Profile
+
+
+![Profile Picture](""C:\Users\chen4\OneDrive\Documents\Allen Documents\pfpallen.jpg""){width="180px"}
+
+
+I am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me.
+
+## Curriculum Vitae
+
+
+You can download my CV below:
+
+[Download CV](file:///C:/Users/chen4/OneDrive/Documents/Allen%20Documents/Allen%20Chen%20Resume.pdf)

@@ -5,10 +5,19 @@ project:
 website:
   title: "Allen Chen"
   navbar:
-    left:
+      left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      
+      right:
+      - icon: github
+        href: https://github.com/forajii
+      - icon: linkedin
+        href: https://www.linkedin.com/in/allen-chen-611aaa294/
+      - icon: envelope
+        href: mailto:alchen518@gmail.com
 
 format:
   html:
@@ -18,5 +27,6 @@ format:
     css: styles.css
     toc: true
 
-
+execute: 
+  freeze: auto
 

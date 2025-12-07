@@ -2,10 +2,16 @@
 title: "Allen Chen"
 ---
 
-This is a Quarto website.
+# Welcome to My Page
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-210 + 39 - 89
-```
+Hello! I'm **Allen Chen**, and this is my personal website where I showcase my projects in data analysis, data science, and more.
+
+
+Use the navigation bar above to explore my:
+
+
+- **About** page
+- **Projects & Research**
+- **CV**
+- **Social Media**
