@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About Me"
 toc: false
 ---
-
-# About Me
 
 
 Hello! I'm **Allen Chen**, and this website consists of my  interests, projects, and professional work.
@@ -11,7 +9,7 @@ Hello! I'm **Allen Chen**, and this website consists of my  interests, projects,
 ## Profile
 
 
-![Profile Picture](images/profile.jpg){width="180px"}{width="180px"}
+![Profile Picture](images/profile.jpg){width="180px"}
 
 
 I am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me.

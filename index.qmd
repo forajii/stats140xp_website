@@ -1,8 +1,6 @@
 ---
-title: "Allen Chen"
+title: "Welcome to My Page"
 ---
-
-# Welcome to My Page
 
 
 Hello! I'm **Allen Chen**, and this is my personal website where I showcase my projects in data analysis, data science, and more. Feel free to connect with me if you are interested!

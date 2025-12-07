@@ -1,30 +1,58 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Allen Chen",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Welcome to My Page\nHello! I’m Allen Chen, and this is my personal website where I showcase my projects in data analysis, data science, and more. Feel free to connect with me if you are interested!\nUse the navigation bar above to explore my:\n\nAbout page\nProjects & Research\nCV\nSocial Media"
+    "text": "Welcome! This page contains an expanding list of my past work, articles, reports, presentations, and professional projects."
+  },
+  {
+    "objectID": "projects.html#predicting-art-prices-at-auction",
+    "href": "projects.html#predicting-art-prices-at-auction",
+    "title": "Projects",
+    "section": "Predicting Art Prices at Auction",
+    "text": "Predicting Art Prices at Auction\nI used machine learning models to predict art prices because the art prices at auction are extremely unstable.\nCheck It Out"
+  },
+  {
+    "objectID": "projects.html#sp-500-stock-market-analysis",
+    "href": "projects.html#sp-500-stock-market-analysis",
+    "title": "Projects",
+    "section": "S&P 500 Stock Market Analysis",
+    "text": "S&P 500 Stock Market Analysis\nThe goal of this was to analyze the trends of the S&P 500 in the past few years to see if it is still a stable investment.\nCheck It Out"
+  },
+  {
+    "objectID": "projects.html#league-of-legends-rank-prediction",
+    "href": "projects.html#league-of-legends-rank-prediction",
+    "title": "Projects",
+    "section": "League of Legends Rank Prediction",
+    "text": "League of Legends Rank Prediction\nA major objective was to use neural networks such as TabTransformer to see how well it would perform on tabular data such as in predicting ranks in video games such as League of Legends.\nCheck It Out"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "Hello! I’m Allen Chen, and this website consists of my interests, projects, and professional work.\n\n\n{width=“180px”}\nI am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me.\n\n\n\nYou can download my CV below:\nDownload CV"
+    "text": "Hello! I’m Allen Chen, and this website consists of my interests, projects, and professional work."
   },
   {
     "objectID": "about.html#profile",
     "href": "about.html#profile",
-    "title": "About",
-    "section": "",
-    "text": "{width=“180px”}\nI am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me."
+    "title": "About Me",
+    "section": "Profile",
+    "text": "Profile\n\n\n\nProfile Picture\n\n\nI am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me."
   },
   {
     "objectID": "about.html#curriculum-vitae",
     "href": "about.html#curriculum-vitae",
-    "title": "About",
+    "title": "About Me",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\nYou can download my CV below:\nDownload CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Page",
     "section": "",
-    "text": "You can download my CV below:\nDownload CV"
+    "text": "Hello! I’m Allen Chen, and this is my personal website where I showcase my projects in data analysis, data science, and more. Feel free to connect with me if you are interested!\nUse the navigation bar above to explore my:\n\nAbout page\nProjects & Research\nCV\nSocial Media"
   }
 ]
