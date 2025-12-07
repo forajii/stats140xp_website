@@ -11,13 +11,6 @@ website:
       - href: about.qmd
         text: About
       
-      right:
-      - icon: github
-        href: https://github.com/forajii
-      - icon: linkedin
-        href: https://www.linkedin.com/in/allen-chen-611aaa294/
-      - icon: envelope
-        href: mailto:alchen518@gmail.com
 
 format:
   html:
@@ -25,7 +18,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 execute: 
   freeze: auto
