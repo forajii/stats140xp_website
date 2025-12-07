@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 7b762efb-5c8f-497b-9fa5-6fa63b0d24af
+      url: 'https://allenchen2.netlify.app/'
