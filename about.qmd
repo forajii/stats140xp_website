@@ -11,7 +11,7 @@ Hello! I'm **Allen Chen**, and this website consists of my  interests, projects,
 ## Profile
 
 
-![Profile Picture](""C:\Users\chen4\OneDrive\Documents\Allen Documents\pfpallen.jpg""){width="180px"}
+![Profile Picture](images/profile.jpg){width="180px"}{width="180px"}
 
 
 I am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me.
@@ -21,4 +21,4 @@ I am passionate about data science, data analysis, GIS, and ML. This site contai
 
 You can download my CV below:
 
-[Download CV](file:///C:/Users/chen4/OneDrive/Documents/Allen%20Documents/Allen%20Chen%20Resume.pdf)
+[Download CV](files/CV.pdf)

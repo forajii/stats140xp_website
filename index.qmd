@@ -5,7 +5,7 @@ title: "Allen Chen"
 # Welcome to My Page
 
 
-Hello! I'm **Allen Chen**, and this is my personal website where I showcase my projects in data analysis, data science, and more.Feel free to connect with me if you are interested!
+Hello! I'm **Allen Chen**, and this is my personal website where I showcase my projects in data analysis, data science, and more. Feel free to connect with me if you are interested!
 
 
 Use the navigation bar above to explore my:
