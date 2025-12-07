@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Allen Chen",
+    "section": "",
+    "text": "Welcome to My Page\nHello! I’m Allen Chen, and this is my personal website where I showcase my projects in data analysis, data science, and more. Feel free to connect with me if you are interested!\nUse the navigation bar above to explore my:\n\nAbout page\nProjects & Research\nCV\nSocial Media"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I’m Allen Chen, and this website consists of my interests, projects, and professional work.\n\n\n{width=“180px”}\nI am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me.\n\n\n\nYou can download my CV below:\nDownload CV"
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
+    "section": "",
+    "text": "{width=“180px”}\nI am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me."
+  },
+  {
+    "objectID": "about.html#curriculum-vitae",
+    "href": "about.html#curriculum-vitae",
+    "title": "About",
+    "section": "",
+    "text": "You can download my CV below:\nDownload CV"
+  }
+]
