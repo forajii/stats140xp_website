@@ -6,12 +6,12 @@ title: "Projects"
 Welcome! This page contains an expanding list of my past work, articles, reports, presentations, and professional projects.
 
 ## Predicting Art Prices at Auction
-I used machine learning models to predict art prices because the art prices at auction are extremely unstable.
+The objective of this project is to use machine learning models to predict art price to discern a pattern of which factors influence art prices more because art prices at auction are extremely unstable.
 
 [Check It Out](https://ucladatares.medium.com/predicting-art-prices-at-auction-almost-impossible-0571b037c49c)
 
 ## S&P 500 Stock Market Analysis
-The goal of this was to analyze the trends of the S&P 500 in the past few years to see if it is still a stable investment. 
+The goal of this project was to analyze the trends of the S&P 500 in the past few years to see if it is still a stable investment. 
 
 [Check It Out](https://ucladatares.medium.com/understanding-the-s-p-500-through-data-analytics-4c406021d86b)
 

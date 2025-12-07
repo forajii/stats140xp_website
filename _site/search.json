@@ -11,14 +11,14 @@
     "href": "projects.html#predicting-art-prices-at-auction",
     "title": "Projects",
     "section": "Predicting Art Prices at Auction",
-    "text": "Predicting Art Prices at Auction\nI used machine learning models to predict art prices because the art prices at auction are extremely unstable.\nCheck It Out"
+    "text": "Predicting Art Prices at Auction\nThe objective of this project is to use machine learning models to predict art price to discern a pattern of which factors influence art prices more because art prices at auction are extremely unstable.\nCheck It Out"
   },
   {
     "objectID": "projects.html#sp-500-stock-market-analysis",
     "href": "projects.html#sp-500-stock-market-analysis",
     "title": "Projects",
     "section": "S&P 500 Stock Market Analysis",
-    "text": "S&P 500 Stock Market Analysis\nThe goal of this was to analyze the trends of the S&P 500 in the past few years to see if it is still a stable investment.\nCheck It Out"
+    "text": "S&P 500 Stock Market Analysis\nThe goal of this project was to analyze the trends of the S&P 500 in the past few years to see if it is still a stable investment.\nCheck It Out"
   },
   {
     "objectID": "projects.html#league-of-legends-rank-prediction",
@@ -39,7 +39,7 @@
     "href": "about.html#profile",
     "title": "About Me",
     "section": "Profile",
-    "text": "Profile\n\n\n\nProfile Picture\n\n\nI am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me."
+    "text": "Profile\n\nI am passionate about data science, data analysis, GIS, and ML. This site contains my projects, CV, publications, and ways to connect with me."
   },
   {
     "objectID": "about.html#curriculum-vitae",
