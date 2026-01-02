@@ -34,4 +34,4 @@ Millions of accounts are leaked every year through the many data breaches that c
 ## Used Car Price Analysis
 The process of selecting a used car is a more thorough and stringent process for some. In this report, which details the used car market in India, vehicles from different brands, components, number of owners, and other factors are all assessed to determine which factors are more important when it comes to buyers selecting a used car. 
 
-[See More](C:/Personal Projects and References/R Notes/Used_Car_Analysis.pdf){download}
+[See More](files/Used_Car_Analysis.pdf)
