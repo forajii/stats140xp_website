@@ -11,5 +11,4 @@ Use the navigation bar above to explore my:
 
 - **About** page
 - **Projects & Research**
-- **CV**
 - **Social Media**
