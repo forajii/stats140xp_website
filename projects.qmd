@@ -3,35 +3,35 @@ title: "Projects"
 ---
 
 
-Welcome! This page contains an expanding list of my past work, articles, reports, presentations, and professional projects.
+Welcome! This page contains an expanding list of my past work. These consist of articles, reports, presentations, and professional projects involving data analysis and data science. More projects (ex. data engineering) can be found in my GitHub.
 
 ## Predicting Art Prices at Auction
 Art prices at auctions experience fluctuations that are may seem random but do have some basis behind them. The objective of this project is to use machine learning models to predict art price to discern a pattern of which factors influence art prices more. 
 
-[See More](https://ucladatares.medium.com/predicting-art-prices-at-auction-almost-impossible-0571b037c49c)
+[Click to See More](https://ucladatares.medium.com/predicting-art-prices-at-auction-almost-impossible-0571b037c49c)
 
 ## S&P 500 Stock Market Analysis
 While health crises, geopolitical uncertainty, inflation, and more in recent years have contributed to more uncertainty in the stock market in recent years, the S&P 500 remains strong.
 The goal of this project was to analyze the trends of the S&P 500 in the past few years to determine which aspects of it are still an attractive investment.  
 
-[See More](https://ucladatares.medium.com/understanding-the-s-p-500-through-data-analytics-4c406021d86b)
+[Click to See More](https://ucladatares.medium.com/understanding-the-s-p-500-through-data-analytics-4c406021d86b)
 
 ## League of Legends Rank Prediction
 Although traditional machine learning models excel on tabular data, a major impetus for this project was to determine if neural networks can deliver similar results. The main objective is to use neural networks such as TabTransformer to see how well it would perform on tabular data such as in predicting ranks in video games such as League of Legends. 
 
-[See More](https://ucladatares.medium.com/before-arcane-a-statistical-analysis-of-the-video-game-behind-the-scenes-c9aa3ec72283)
+[Click to See More](https://ucladatares.medium.com/before-arcane-a-statistical-analysis-of-the-video-game-behind-the-scenes-c9aa3ec72283)
 
 ## The State of Lobbying in Los Angeles
 Lobbying is a primary determinant of influence for any city, and the millions of dollars spent on lobbying by individuals and companies each year in Los Angeles is a major indicator of not only where the city may see itself in the future in terms of development, but how the city mediates between different interests that have competing visions for the future of Los Angeles. Our goal in this presentation is to determine how the current state of lobbying in Los Angeles functions in relationship to the interests of Los Angeles residents.
 
-[See More](https://docs.google.com/presentation/d/e/2PACX-1vRMQGDQLxNNktOhz6-Xql1RYEHMYiqUX034E8u_8PXDQ2Wns0h697AQiBtfdi8qM12eqlDZqYs-BJ_9/pub?start=false&loop=false&delayms=3000&slide=id.gd431007ba2_0_208)
+[Click to See More](https://docs.google.com/presentation/d/e/2PACX-1vRMQGDQLxNNktOhz6-Xql1RYEHMYiqUX034E8u_8PXDQ2Wns0h697AQiBtfdi8qM12eqlDZqYs-BJ_9/pub?start=false&loop=false&delayms=3000&slide=id.gd431007ba2_0_208)
 
 ## Suspicious Activity Email Notifier
 Millions of accounts are leaked every year through the many data breaches that companies and government agencies face. Our goal in this presentation is to create a machine learning model that is able to best mitigate the risk of an unauthorized login attempt based on past user behavior.
 
-[See More](https://docs.google.com/presentation/d/e/2PACX-1vQ3gt081SrrgmPBCS3vkCSPS1Y25J5w1lsXpKcdkjGWNsuAKD_sM_7tySdxkKVEEwnpoBszQ0Vq036X/pub?start=false&loop=false&delayms=3000)
+[Click to See More](https://docs.google.com/presentation/d/e/2PACX-1vQ3gt081SrrgmPBCS3vkCSPS1Y25J5w1lsXpKcdkjGWNsuAKD_sM_7tySdxkKVEEwnpoBszQ0Vq036X/pub?start=false&loop=false&delayms=3000)
 
 ## Used Car Price Analysis
 The process of selecting a used car is a more thorough and stringent process for some. In this report, which details the used car market in India, vehicles from different brands, components, number of owners, and other factors are all assessed to determine which factors are more important when it comes to buyers selecting a used car. 
 
-[See More](files/Used_Car_Analysis.pdf)
+[Click to See More](files/Used_Car_Analysis.pdf)

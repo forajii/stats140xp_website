@@ -3,10 +3,10 @@ title: "Welcome to My Page"
 ---
 
 
-Hello! I'm **Allen Chen**, and this is my personal website where I showcase my projects in data analysis, data science, and more. Feel free to connect with me if you are interested!
+Hello! I'm **Allen Chen**, and this is my personal website where I showcase my projects in data engineering, data analysis, data science, and more. Feel free to connect with me if you are interested!
 
 
-Please use the navigation bar above to explore the pages below:
+Please use the navigation bar above to explore the sections listed below:
 
 
 - **About** 

@@ -4,56 +4,56 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome! This page contains an expanding list of my past work, articles, reports, presentations, and professional projects."
+    "text": "Welcome! This page contains an expanding list of my past work. These consist of articles, reports, presentations, and professional projects involving data analysis and data science. More projects (ex. data engineering) can be found in my GitHub."
   },
   {
     "objectID": "projects.html#predicting-art-prices-at-auction",
     "href": "projects.html#predicting-art-prices-at-auction",
     "title": "Projects",
     "section": "Predicting Art Prices at Auction",
-    "text": "Predicting Art Prices at Auction\nArt prices at auctions experience fluctuations that are may seem random but do have some basis behind them. The objective of this project is to use machine learning models to predict art price to discern a pattern of which factors influence art prices more.\nSee More"
+    "text": "Predicting Art Prices at Auction\nArt prices at auctions experience fluctuations that are may seem random but do have some basis behind them. The objective of this project is to use machine learning models to predict art price to discern a pattern of which factors influence art prices more.\nClick to See More"
   },
   {
     "objectID": "projects.html#sp-500-stock-market-analysis",
     "href": "projects.html#sp-500-stock-market-analysis",
     "title": "Projects",
     "section": "S&P 500 Stock Market Analysis",
-    "text": "S&P 500 Stock Market Analysis\nWhile health crises, geopolitical uncertainty, inflation, and more in recent years have contributed to more uncertainty in the stock market in recent years, the S&P 500 remains strong. The goal of this project was to analyze the trends of the S&P 500 in the past few years to determine which aspects of it are still an attractive investment.\nSee More"
+    "text": "S&P 500 Stock Market Analysis\nWhile health crises, geopolitical uncertainty, inflation, and more in recent years have contributed to more uncertainty in the stock market in recent years, the S&P 500 remains strong. The goal of this project was to analyze the trends of the S&P 500 in the past few years to determine which aspects of it are still an attractive investment.\nClick to See More"
   },
   {
     "objectID": "projects.html#league-of-legends-rank-prediction",
     "href": "projects.html#league-of-legends-rank-prediction",
     "title": "Projects",
     "section": "League of Legends Rank Prediction",
-    "text": "League of Legends Rank Prediction\nAlthough traditional machine learning models excel on tabular data, a major impetus for this project was to determine if neural networks can deliver similar results. The main objective is to use neural networks such as TabTransformer to see how well it would perform on tabular data such as in predicting ranks in video games such as League of Legends.\nSee More"
+    "text": "League of Legends Rank Prediction\nAlthough traditional machine learning models excel on tabular data, a major impetus for this project was to determine if neural networks can deliver similar results. The main objective is to use neural networks such as TabTransformer to see how well it would perform on tabular data such as in predicting ranks in video games such as League of Legends.\nClick to See More"
   },
   {
     "objectID": "projects.html#the-state-of-lobbying-in-los-angeles",
     "href": "projects.html#the-state-of-lobbying-in-los-angeles",
     "title": "Projects",
     "section": "The State of Lobbying in Los Angeles",
-    "text": "The State of Lobbying in Los Angeles\nLobbying is a primary determinant of influence for any city, and the millions of dollars spent on lobbying by individuals and companies each year in Los Angeles is a major indicator of not only where the city may see itself in the future in terms of development, but how the city mediates between different interests that have competing visions for the future of Los Angeles. Our goal in this presentation is to determine how the current state of lobbying in Los Angeles functions in relationship to the interests of Los Angeles residents.\nSee More"
+    "text": "The State of Lobbying in Los Angeles\nLobbying is a primary determinant of influence for any city, and the millions of dollars spent on lobbying by individuals and companies each year in Los Angeles is a major indicator of not only where the city may see itself in the future in terms of development, but how the city mediates between different interests that have competing visions for the future of Los Angeles. Our goal in this presentation is to determine how the current state of lobbying in Los Angeles functions in relationship to the interests of Los Angeles residents.\nClick to See More"
   },
   {
     "objectID": "projects.html#suspicious-activity-email-notifier",
     "href": "projects.html#suspicious-activity-email-notifier",
     "title": "Projects",
     "section": "Suspicious Activity Email Notifier",
-    "text": "Suspicious Activity Email Notifier\nMillions of accounts are leaked every year through the many data breaches that companies and government agencies face. Our goal in this presentation is to create a machine learning model that is able to best mitigate the risk of an unauthorized login attempt based on past user behavior.\nSee More"
+    "text": "Suspicious Activity Email Notifier\nMillions of accounts are leaked every year through the many data breaches that companies and government agencies face. Our goal in this presentation is to create a machine learning model that is able to best mitigate the risk of an unauthorized login attempt based on past user behavior.\nClick to See More"
   },
   {
     "objectID": "projects.html#used-car-price-analysis",
     "href": "projects.html#used-car-price-analysis",
     "title": "Projects",
     "section": "Used Car Price Analysis",
-    "text": "Used Car Price Analysis\nThe process of selecting a used car is a more thorough and stringent process for some. In this report, which details the used car market in India, vehicles from different brands, components, number of owners, and other factors are all assessed to determine which factors are more important when it comes to buyers selecting a used car.\nSee More"
+    "text": "Used Car Price Analysis\nThe process of selecting a used car is a more thorough and stringent process for some. In this report, which details the used car market in India, vehicles from different brands, components, number of owners, and other factors are all assessed to determine which factors are more important when it comes to buyers selecting a used car.\nClick to See More"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a statistics and data science major and history minor at UCLA. I have a more human-oriented approach when it comes to analyzing data, as oftentimes metrics collected and aggregated in databases may not always reflect the ground reality of many different company services.\nMy current focus for business applications is in data engineering, data analysis, and data science. It is crucial to have a solid foundation in these three domains because they form the backbone of the entire data science workflow (CRISP-DM)."
+    "text": "I am a statistics and data science major and history minor at UCLA. I take a more human-oriented approach when it comes to analyzing data, as oftentimes metrics collected and aggregated in databases may not always reflect the ground reality of many different company services.\nMy current focus for business applications is in data engineering, data analysis, and data science. It is crucial to have a solid foundation in these three domains because they form the backbone of the entire data science workflow (CRISP-DM)."
   },
   {
     "objectID": "about.html#profile",
@@ -67,6 +67,6 @@
     "href": "index.html",
     "title": "Welcome to My Page",
     "section": "",
-    "text": "Hello! I’m Allen Chen, and this is my personal website where I showcase my projects in data analysis, data science, and more. Feel free to connect with me if you are interested!\nPlease use the navigation bar above to explore the pages below:\n\nAbout\nProjects & Research\nSocial Media"
+    "text": "Hello! I’m Allen Chen, and this is my personal website where I showcase my projects in data engineering, data analysis, data science, and more. Feel free to connect with me if you are interested!\nPlease use the navigation bar above to explore the sections listed below:\n\nAbout\nProjects & Research\nSocial Media"
   }
 ]
